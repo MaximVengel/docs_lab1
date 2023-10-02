@@ -1,0 +1,2607 @@
+{
+  "@aws-crypto/crc32@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\crc32",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\crc32\\LICENSE"
+  },
+  "@aws-crypto/ie11-detection@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\ie11-detection",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\ie11-detection\\LICENSE"
+  },
+  "@aws-crypto/sha256-browser@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\sha256-browser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\sha256-browser\\LICENSE"
+  },
+  "@aws-crypto/sha256-js@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\sha256-js",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\sha256-js\\LICENSE"
+  },
+  "@aws-crypto/supports-web-crypto@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\supports-web-crypto",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\supports-web-crypto\\LICENSE"
+  },
+  "@aws-crypto/util@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-crypto-helpers",
+    "publisher": "AWS Crypto Tools Team",
+    "email": "aws-cryptools@amazon.com",
+    "url": "https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\util",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\util\\LICENSE"
+  },
+  "@aws-sdk/client-cognito-identity@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-cognito-identity",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-cognito-identity\\LICENSE"
+  },
+  "@aws-sdk/client-sso@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-sso",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-sso\\LICENSE"
+  },
+  "@aws-sdk/client-sts@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-sts",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\client-sts\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-cognito-identity@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-cognito-identity",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-cognito-identity\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-env@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-env",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-env\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-ini@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-ini",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-ini\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-node@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-node\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-process@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-process",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-process\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-sso@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-sso",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-sso\\LICENSE"
+  },
+  "@aws-sdk/credential-provider-web-identity@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-web-identity",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-provider-web-identity\\LICENSE"
+  },
+  "@aws-sdk/credential-providers@3.421.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-providers",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\credential-providers\\LICENSE"
+  },
+  "@aws-sdk/middleware-host-header@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-host-header",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-host-header\\LICENSE"
+  },
+  "@aws-sdk/middleware-logger@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-logger",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-logger\\LICENSE"
+  },
+  "@aws-sdk/middleware-recursion-detection@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-recursion-detection",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-recursion-detection\\LICENSE"
+  },
+  "@aws-sdk/middleware-sdk-sts@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-sdk-sts",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-sdk-sts\\LICENSE"
+  },
+  "@aws-sdk/middleware-signing@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-signing",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-signing\\LICENSE"
+  },
+  "@aws-sdk/middleware-user-agent@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-user-agent",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\middleware-user-agent\\LICENSE"
+  },
+  "@aws-sdk/region-config-resolver@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\region-config-resolver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\region-config-resolver\\LICENSE"
+  },
+  "@aws-sdk/token-providers@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\token-providers",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\token-providers\\LICENSE"
+  },
+  "@aws-sdk/types@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\types",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\types\\LICENSE"
+  },
+  "@aws-sdk/util-endpoints@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-endpoints",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-endpoints\\LICENSE"
+  },
+  "@aws-sdk/util-locate-window@3.310.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-locate-window",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-locate-window\\LICENSE"
+  },
+  "@aws-sdk/util-user-agent-browser@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-user-agent-browser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-user-agent-browser\\LICENSE"
+  },
+  "@aws-sdk/util-user-agent-node@3.418.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-user-agent-node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-user-agent-node\\LICENSE"
+  },
+  "@aws-sdk/util-utf8-browser@3.259.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/aws/aws-sdk-js-v3",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-utf8-browser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-sdk\\util-utf8-browser\\LICENSE"
+  },
+  "@mapbox/node-pre-gyp@1.0.11": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mapbox/node-pre-gyp",
+    "publisher": "Dane Springmeyer",
+    "email": "dane@mapbox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@mapbox\\node-pre-gyp",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@mapbox\\node-pre-gyp\\LICENSE"
+  },
+  "@mongodb-js/saslprep@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mongodb-js/devtools-shared",
+    "publisher": "Dmitry Tsvettsikh",
+    "email": "me@reklatsmasters.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@mongodb-js\\saslprep",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@mongodb-js\\saslprep\\LICENSE"
+  },
+  "@smithy/abort-controller@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\abort-controller",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\abort-controller\\LICENSE"
+  },
+  "@smithy/config-resolver@2.0.11": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\config-resolver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\config-resolver\\LICENSE"
+  },
+  "@smithy/credential-provider-imds@2.0.13": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\credential-provider-imds",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\credential-provider-imds\\LICENSE"
+  },
+  "@smithy/eventstream-codec@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\eventstream-codec",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\eventstream-codec\\LICENSE"
+  },
+  "@smithy/fetch-http-handler@2.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\fetch-http-handler",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\fetch-http-handler\\LICENSE"
+  },
+  "@smithy/hash-node@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\hash-node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\hash-node\\LICENSE"
+  },
+  "@smithy/invalid-dependency@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\invalid-dependency",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\invalid-dependency\\LICENSE"
+  },
+  "@smithy/is-array-buffer@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\is-array-buffer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\is-array-buffer\\LICENSE"
+  },
+  "@smithy/middleware-content-length@2.0.12": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-content-length",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-content-length\\LICENSE"
+  },
+  "@smithy/middleware-endpoint@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-endpoint",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-endpoint\\LICENSE"
+  },
+  "@smithy/middleware-retry@2.0.13": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-retry",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-retry\\LICENSE"
+  },
+  "@smithy/middleware-serde@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-serde",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-serde\\LICENSE"
+  },
+  "@smithy/middleware-stack@2.0.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-stack",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\middleware-stack\\LICENSE"
+  },
+  "@smithy/node-config-provider@2.0.13": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\node-config-provider",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\node-config-provider\\LICENSE"
+  },
+  "@smithy/node-http-handler@2.1.6": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\node-http-handler",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\node-http-handler\\LICENSE"
+  },
+  "@smithy/property-provider@2.0.11": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\property-provider",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\property-provider\\LICENSE"
+  },
+  "@smithy/protocol-http@3.0.6": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS Smithy Team",
+    "url": "https://smithy.io",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\protocol-http",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\protocol-http\\LICENSE"
+  },
+  "@smithy/querystring-builder@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\querystring-builder",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\querystring-builder\\LICENSE"
+  },
+  "@smithy/querystring-parser@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\querystring-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\querystring-parser\\LICENSE"
+  },
+  "@smithy/service-error-classification@2.0.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\service-error-classification",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\service-error-classification\\LICENSE"
+  },
+  "@smithy/shared-ini-file-loader@2.0.12": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\shared-ini-file-loader",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\shared-ini-file-loader\\LICENSE"
+  },
+  "@smithy/signature-v4@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\signature-v4",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\signature-v4\\LICENSE"
+  },
+  "@smithy/smithy-client@2.1.8": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\smithy-client",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\smithy-client\\LICENSE"
+  },
+  "@smithy/types@2.3.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS Smithy Team",
+    "url": "https://smithy.io",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\types",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\types\\LICENSE"
+  },
+  "@smithy/url-parser@2.0.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\url-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\url-parser\\LICENSE"
+  },
+  "@smithy/util-base64@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-base64",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-base64\\LICENSE"
+  },
+  "@smithy/util-body-length-browser@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-body-length-browser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-body-length-browser\\LICENSE"
+  },
+  "@smithy/util-body-length-node@2.1.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-body-length-node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-body-length-node\\LICENSE"
+  },
+  "@smithy/util-buffer-from@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-buffer-from",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-buffer-from\\LICENSE"
+  },
+  "@smithy/util-config-provider@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-config-provider",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-config-provider\\LICENSE"
+  },
+  "@smithy/util-defaults-mode-browser@2.0.12": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-defaults-mode-browser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-defaults-mode-browser\\LICENSE"
+  },
+  "@smithy/util-defaults-mode-node@2.0.14": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-defaults-mode-node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-defaults-mode-node\\LICENSE"
+  },
+  "@smithy/util-hex-encoding@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-hex-encoding",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-hex-encoding\\LICENSE"
+  },
+  "@smithy/util-middleware@2.0.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-middleware",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-middleware\\LICENSE"
+  },
+  "@smithy/util-retry@2.0.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-retry",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-retry\\LICENSE"
+  },
+  "@smithy/util-stream@2.0.13": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-stream",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-stream\\LICENSE"
+  },
+  "@smithy/util-uri-escape@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-uri-escape",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-uri-escape\\LICENSE"
+  },
+  "@smithy/util-utf8@2.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/awslabs/smithy-typescript",
+    "publisher": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-utf8",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@smithy\\util-utf8\\LICENSE"
+  },
+  "@types/chai@4.3.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\chai",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\chai\\LICENSE"
+  },
+  "@types/cookiejar@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\cookiejar",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\cookiejar\\LICENSE"
+  },
+  "@types/node@20.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\node",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\node\\LICENSE"
+  },
+  "@types/superagent@4.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\superagent",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\superagent\\LICENSE"
+  },
+  "@types/webidl-conversions@7.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\webidl-conversions",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\webidl-conversions\\LICENSE"
+  },
+  "@types/whatwg-url@8.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\whatwg-url",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@types\\whatwg-url\\LICENSE"
+  },
+  "abbrev@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/abbrev-js",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\abbrev",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\abbrev\\LICENSE"
+  },
+  "accepts@1.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\accepts",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\accepts\\LICENSE"
+  },
+  "agent-base@6.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/node-agent-base",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base\\README.md"
+  },
+  "ansi-colors@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/doowb/ansi-colors",
+    "publisher": "Brian Woodward",
+    "url": "https://github.com/doowb",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-colors",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-colors\\LICENSE"
+  },
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ansi-styles\\license"
+  },
+  "anymatch@3.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/micromatch/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "https://github.com/es128",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\anymatch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\anymatch\\LICENSE"
+  },
+  "aproba@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/aproba",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\aproba",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\aproba\\LICENSE"
+  },
+  "are-we-there-yet@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/are-we-there-yet",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\are-we-there-yet",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\are-we-there-yet\\LICENSE.md"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\argparse",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\argparse\\LICENSE"
+  },
+  "array-flatten@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/array-flatten",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\array-flatten",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\array-flatten\\LICENSE"
+  },
+  "asap@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kriskowal/asap",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\asap",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\asap\\LICENSE.md"
+  },
+  "assertion-error@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/assertion-error",
+    "publisher": "Jake Luer",
+    "email": "jake@qualiancy.com",
+    "url": "http://qualiancy.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\assertion-error",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\assertion-error\\README.md"
+  },
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\asynckit",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\asynckit\\LICENSE"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\balanced-match",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "base64-js@1.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/beatgammit/base64-js",
+    "publisher": "T. Jameson Little",
+    "email": "t.jameson.little@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\base64-js",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\base64-js\\LICENSE"
+  },
+  "bcrypt@5.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kelektiv/node.bcrypt.js",
+    "publisher": "Nick Campbell",
+    "url": "https://github.com/ncb000gt",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bcrypt",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bcrypt\\LICENSE"
+  },
+  "binary-extensions@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/binary-extensions",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\binary-extensions",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\binary-extensions\\license"
+  },
+  "body-parser@1.20.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\body-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\body-parser\\LICENSE"
+  },
+  "bowser@2.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lancedikson/bowser",
+    "publisher": "Dustin Diaz",
+    "email": "dustin@dustindiaz.com",
+    "url": "http://dustindiaz.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bowser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bowser\\LICENSE"
+  },
+  "brace-expansion@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob\\node_modules\\brace-expansion",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "brace-expansion@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\brace-expansion",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "braces@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/braces",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\braces",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\braces\\LICENSE"
+  },
+  "browser-stdout@1.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/kumavis/browser-stdout",
+    "publisher": "kumavis",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\browser-stdout",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\browser-stdout\\LICENSE"
+  },
+  "bson@4.7.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mongodb/js-bson",
+    "publisher": "The MongoDB NodeJS Team",
+    "email": "dbx-node@mongodb.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bson",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bson\\LICENSE.md"
+  },
+  "buffer-equal-constant-time@1.0.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/goinstant/buffer-equal-constant-time",
+    "publisher": "GoInstant Inc., a salesforce.com company",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\buffer-equal-constant-time",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\buffer-equal-constant-time\\LICENSE.txt"
+  },
+  "buffer@5.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\buffer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\buffer\\LICENSE"
+  },
+  "bytes@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bytes",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\bytes\\LICENSE"
+  },
+  "call-bind@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\call-bind",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\call-bind\\LICENSE"
+  },
+  "camelcase@6.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/camelcase",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\camelcase",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\camelcase\\license"
+  },
+  "chai-http@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/chai-http",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chai-http",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chai-http\\README.md"
+  },
+  "chai@4.3.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/chai",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chai",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chai\\LICENSE"
+  },
+  "chalk@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chalk",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chalk\\license"
+  },
+  "charset@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/node-modules/charset",
+    "publisher": "fengmk2",
+    "email": "fengmk2@gmail.com",
+    "url": "https://fengmk2.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\charset",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\charset\\LICENSE.txt"
+  },
+  "check-error@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/check-error",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "url": "http://alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\check-error",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\check-error\\LICENSE"
+  },
+  "chokidar@3.5.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/chokidar",
+    "publisher": "Paul Miller",
+    "url": "https://paulmillr.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chokidar",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chokidar\\LICENSE"
+  },
+  "chownr@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/chownr",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chownr",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chownr\\LICENSE"
+  },
+  "cliui@7.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/cliui",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cliui",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cliui\\LICENSE.txt"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-convert",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-convert\\LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-name",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-name\\LICENSE"
+  },
+  "color-support@1.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/color-support",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-support",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\color-support\\LICENSE"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\combined-stream",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\combined-stream\\License"
+  },
+  "component-emitter@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/emitter",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\component-emitter",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\component-emitter\\LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\concat-map",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\concat-map\\LICENSE"
+  },
+  "console-control-strings@1.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/console-control-strings",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\console-control-strings",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\console-control-strings\\LICENSE"
+  },
+  "content-disposition@0.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\content-disposition",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\content-disposition\\LICENSE"
+  },
+  "content-type@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\content-type",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\content-type\\LICENSE"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookie-signature",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookie-signature\\Readme.md"
+  },
+  "cookie@0.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookie",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookie\\LICENSE"
+  },
+  "cookiejar@2.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bmeck/node-cookiejar",
+    "publisher": "bradleymeck",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookiejar",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\cookiejar\\LICENSE"
+  },
+  "debug@2.6.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\debug",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\debug\\LICENSE"
+  },
+  "debug@3.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\debug",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\debug\\LICENSE"
+  },
+  "debug@4.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "email": "josh.junon@protonmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base\\node_modules\\debug",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base\\node_modules\\debug\\LICENSE"
+  },
+  "decamelize@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/decamelize",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\decamelize",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\decamelize\\license"
+  },
+  "deep-eql@4.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/deep-eql",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\deep-eql",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\deep-eql\\LICENSE"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\delayed-stream",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\delayed-stream\\License"
+  },
+  "delegates@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-delegates",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\delegates",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\delegates\\License"
+  },
+  "depd@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\depd",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\depd\\LICENSE"
+  },
+  "destroy@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\destroy",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\destroy\\LICENSE"
+  },
+  "detect-libc@2.0.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/detect-libc",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\detect-libc",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\detect-libc\\LICENSE"
+  },
+  "dezalgo@1.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/dezalgo",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\dezalgo",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\dezalgo\\LICENSE"
+  },
+  "diff@5.0.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/kpdecker/jsdiff",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\diff",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\diff\\LICENSE"
+  },
+  "ecdsa-sig-formatter@1.0.11": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/Brightspace/node-ecdsa-sig-formatter",
+    "publisher": "D2L Corporation",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ecdsa-sig-formatter",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ecdsa-sig-formatter\\LICENSE"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ee-first",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ee-first\\LICENSE"
+  },
+  "emoji-regex@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "encodeurl@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\encodeurl",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\encodeurl\\LICENSE"
+  },
+  "escalade@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/escalade",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escalade",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escalade\\license"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escape-html",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escape-html\\LICENSE"
+  },
+  "escape-string-regexp@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escape-string-regexp",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\escape-string-regexp\\license"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\etag",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\etag\\LICENSE"
+  },
+  "express@4.18.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\express",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\express\\LICENSE"
+  },
+  "fast-safe-stringify@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davidmarkclements/fast-safe-stringify",
+    "publisher": "David Mark Clements",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fast-safe-stringify",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fast-safe-stringify\\LICENSE"
+  },
+  "fast-xml-parser@4.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/NaturalIntelligence/fast-xml-parser",
+    "publisher": "Amit Gupta",
+    "url": "https://amitkumargupta.work/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fast-xml-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fast-xml-parser\\LICENSE"
+  },
+  "fill-range@7.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/fill-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fill-range",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fill-range\\LICENSE"
+  },
+  "finalhandler@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\finalhandler",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\finalhandler\\LICENSE"
+  },
+  "find-up@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/find-up",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\find-up",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\find-up\\license"
+  },
+  "flat@5.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/hughsk/flat",
+    "publisher": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughskennedy.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\flat",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\flat\\LICENSE"
+  },
+  "form-data@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\form-data",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\form-data\\License"
+  },
+  "formidable@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/node-formidable/formidable",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\formidable",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\formidable\\LICENSE"
+  },
+  "forwarded@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\forwarded",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\forwarded\\LICENSE"
+  },
+  "fresh@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fresh",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fresh\\LICENSE"
+  },
+  "fs-minipass@2.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/fs-minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs-minipass",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs-minipass\\LICENSE"
+  },
+  "fs.realpath@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/fs.realpath",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs.realpath",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs.realpath\\LICENSE"
+  },
+  "function-bind@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\function-bind",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\function-bind\\LICENSE"
+  },
+  "gauge@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/gauge",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\gauge",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\gauge\\LICENSE"
+  },
+  "get-caller-file@2.0.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/stefanpenner/get-caller-file",
+    "publisher": "Stefan Penner",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-caller-file",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-caller-file\\LICENSE.md"
+  },
+  "get-func-name@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/get-func-name",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "url": "http://alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-func-name",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-func-name\\LICENSE"
+  },
+  "get-intrinsic@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-intrinsic",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\get-intrinsic\\LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob-parent",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob-parent\\LICENSE"
+  },
+  "glob@7.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob\\LICENSE"
+  },
+  "has-flag@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\has-flag",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\has-flag\\license"
+  },
+  "has-flag@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-flag",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-flag\\license"
+  },
+  "has-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-proto",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-proto\\LICENSE"
+  },
+  "has-symbols@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-symbols",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-symbols\\LICENSE"
+  },
+  "has-unicode@2.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/has-unicode",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-unicode",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has-unicode\\LICENSE"
+  },
+  "has@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tarruda/has",
+    "publisher": "Thiago de Arruda",
+    "email": "tpadilha84@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\has\\LICENSE-MIT"
+  },
+  "he@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/he",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\he",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\he\\LICENSE-MIT.txt"
+  },
+  "hexoid@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/hexoid",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\hexoid",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\hexoid\\license"
+  },
+  "http-errors@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\http-errors",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\http-errors\\LICENSE"
+  },
+  "https-proxy-agent@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/node-https-proxy-agent",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\https-proxy-agent",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\https-proxy-agent\\README.md"
+  },
+  "iconv-lite@0.4.24": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\iconv-lite",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\iconv-lite\\LICENSE"
+  },
+  "ieee754@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/feross/ieee754",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ieee754",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ieee754\\LICENSE"
+  },
+  "ignore-by-default@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/novemberborn/ignore-by-default",
+    "publisher": "Mark Wubben",
+    "url": "https://novemberborn.net/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ignore-by-default",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ignore-by-default\\LICENSE"
+  },
+  "inflight@1.0.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/inflight",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\inflight",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\inflight\\LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\inherits",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\inherits\\LICENSE"
+  },
+  "ip-regex@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/ip-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ip-regex",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ip-regex\\license"
+  },
+  "ip@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/indutny/node-ip",
+    "publisher": "Fedor Indutny",
+    "email": "fedor@indutny.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ip",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ip\\README.md"
+  },
+  "ipaddr.js@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ipaddr.js",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ipaddr.js\\LICENSE"
+  },
+  "is-binary-path@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-binary-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-binary-path",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-binary-path\\license"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-extglob",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-extglob\\LICENSE"
+  },
+  "is-fullwidth-code-point@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-fullwidth-code-point",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-fullwidth-code-point\\license"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-glob",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-glob\\LICENSE"
+  },
+  "is-ip@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-ip",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-ip",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-ip\\license"
+  },
+  "is-number@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-number",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-number",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-number\\LICENSE"
+  },
+  "is-plain-obj@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-plain-obj",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-plain-obj",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-plain-obj\\license"
+  },
+  "is-unicode-supported@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-unicode-supported",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-unicode-supported",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\is-unicode-supported\\license"
+  },
+  "js-yaml@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\js-yaml",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\js-yaml\\LICENSE"
+  },
+  "jsonwebtoken@8.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/auth0/node-jsonwebtoken",
+    "publisher": "auth0",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jsonwebtoken",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jsonwebtoken\\LICENSE"
+  },
+  "jwa@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianloveswords/node-jwa",
+    "publisher": "Brian J. Brennan",
+    "email": "brianloveswords@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jwa",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jwa\\LICENSE"
+  },
+  "jws@3.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianloveswords/node-jws",
+    "publisher": "Brian J Brennan",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jws",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jws\\LICENSE"
+  },
+  "kareem@2.5.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/vkarpov15/kareem",
+    "publisher": "Valeri Karpov",
+    "email": "val@karpov.io",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\kareem",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\kareem\\LICENSE"
+  },
+  "locate-path@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/locate-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\locate-path",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\locate-path\\license"
+  },
+  "lodash.includes@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.includes",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.includes\\LICENSE"
+  },
+  "lodash.isboolean@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isboolean",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isboolean\\LICENSE"
+  },
+  "lodash.isinteger@4.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isinteger",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isinteger\\LICENSE"
+  },
+  "lodash.isnumber@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isnumber",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isnumber\\LICENSE"
+  },
+  "lodash.isplainobject@4.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isplainobject",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isplainobject\\LICENSE"
+  },
+  "lodash.isstring@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isstring",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.isstring\\LICENSE"
+  },
+  "lodash.once@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.once",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lodash.once\\LICENSE"
+  },
+  "log-symbols@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/log-symbols",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\log-symbols",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\log-symbols\\license"
+  },
+  "loupe@2.3.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/loupe",
+    "publisher": "Veselin Todorov",
+    "email": "hi@vesln.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\loupe",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\loupe\\LICENSE"
+  },
+  "lru-cache@6.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lru-cache",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\lru-cache\\LICENSE"
+  },
+  "make-dir@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/make-dir",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\make-dir",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\make-dir\\license"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\media-typer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\media-typer\\LICENSE"
+  },
+  "memory-pager@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mafintosh/memory-pager",
+    "publisher": "Mathias Buus",
+    "url": "@mafintosh",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\memory-pager",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\memory-pager\\LICENSE"
+  },
+  "merge-descriptors@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/merge-descriptors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\merge-descriptors",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\merge-descriptors\\LICENSE"
+  },
+  "methods@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\methods",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\methods\\LICENSE"
+  },
+  "mime-db@1.52.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime-db",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime-db\\LICENSE"
+  },
+  "mime-types@2.1.35": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime-types",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime-types\\LICENSE"
+  },
+  "mime@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mime\\LICENSE"
+  },
+  "mime@2.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\superagent\\node_modules\\mime",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\superagent\\node_modules\\mime\\LICENSE"
+  },
+  "minimatch@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob\\node_modules\\minimatch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\glob\\node_modules\\minimatch\\LICENSE"
+  },
+  "minimatch@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minimatch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minimatch\\LICENSE"
+  },
+  "minipass@3.3.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs-minipass\\node_modules\\minipass",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\fs-minipass\\node_modules\\minipass\\LICENSE"
+  },
+  "minipass@5.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minipass",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minipass\\LICENSE"
+  },
+  "minizlib@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/minizlib",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minizlib",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\minizlib\\LICENSE"
+  },
+  "mkdirp@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/node-mkdirp",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mkdirp",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mkdirp\\LICENSE"
+  },
+  "mocha@10.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mochajs/mocha",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mocha",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mocha\\LICENSE"
+  },
+  "mongodb-connection-string-url@2.6.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mongodb-js/mongodb-connection-string-url",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongodb-connection-string-url",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongodb-connection-string-url\\LICENSE"
+  },
+  "mongodb@4.17.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mongodb/node-mongodb-native",
+    "publisher": "The MongoDB NodeJS Team",
+    "email": "dbx-node@mongodb.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongodb",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongodb\\LICENSE.md"
+  },
+  "mongoose@6.12.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Automattic/mongoose",
+    "publisher": "Guillermo Rauch",
+    "email": "guillermo@learnboost.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongoose",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mongoose\\LICENSE.md"
+  },
+  "mpath@0.9.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/mpath",
+    "publisher": "Aaron Heckmann",
+    "email": "aaron.heckmann+github@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mpath",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mpath\\LICENSE"
+  },
+  "mquery@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/mquery",
+    "publisher": "Aaron Heckmann",
+    "email": "aaron.heckmann+github@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mquery",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\mquery\\LICENSE"
+  },
+  "ms@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ms",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\ms\\license.md"
+  },
+  "ms@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base\\node_modules\\ms",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\agent-base\\node_modules\\ms\\license.md"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\send\\node_modules\\ms",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\send\\node_modules\\ms\\license.md"
+  },
+  "nanoid@3.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nanoid",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nanoid\\LICENSE"
+  },
+  "negotiator@0.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\negotiator",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\negotiator\\LICENSE"
+  },
+  "node-addon-api@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/node-addon-api",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-addon-api",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-addon-api\\LICENSE.md"
+  },
+  "node-fetch@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bitinn/node-fetch",
+    "publisher": "David Frank",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\LICENSE.md"
+  },
+  "nodemon@2.0.22": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/nodemon",
+    "publisher": "Remy Sharp",
+    "url": "https://github.com/remy",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\LICENSE"
+  },
+  "nopt@1.0.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/nopt",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\touch\\node_modules\\nopt",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\touch\\node_modules\\nopt\\LICENSE"
+  },
+  "nopt@5.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/nopt",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nopt",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nopt\\LICENSE"
+  },
+  "normalize-path@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/normalize-path",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\normalize-path",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\normalize-path\\LICENSE"
+  },
+  "npmlog@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/npmlog",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\npmlog",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\npmlog\\LICENSE"
+  },
+  "object-assign@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/object-assign",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\object-assign",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\object-assign\\license"
+  },
+  "object-inspect@1.12.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/object-inspect",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\object-inspect",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\object-inspect\\LICENSE"
+  },
+  "on-finished@2.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\on-finished",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\on-finished\\LICENSE"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\once",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\once\\LICENSE"
+  },
+  "p-limit@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-limit",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\p-limit",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\p-limit\\license"
+  },
+  "p-locate@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-locate",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\p-locate",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\p-locate\\license"
+  },
+  "parseurl@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\parseurl",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\parseurl\\LICENSE"
+  },
+  "path-exists@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-exists",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-exists",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-exists\\license"
+  },
+  "path-is-absolute@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-is-absolute",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-is-absolute\\license"
+  },
+  "path-to-regexp@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/path-to-regexp",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-to-regexp",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\path-to-regexp\\LICENSE"
+  },
+  "pathval@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/pathval",
+    "publisher": "Veselin Todorov",
+    "email": "hi@vesln.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\pathval",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\pathval\\LICENSE"
+  },
+  "picomatch@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\picomatch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\picomatch\\LICENSE"
+  },
+  "proxy-addr@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\proxy-addr",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\proxy-addr\\LICENSE"
+  },
+  "pstree.remy@1.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/pstree",
+    "publisher": "Remy Sharp",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\pstree.remy",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\pstree.remy\\LICENSE"
+  },
+  "punycode@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\punycode",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\punycode\\LICENSE-MIT.txt"
+  },
+  "qs@6.11.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\body-parser\\node_modules\\qs",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\body-parser\\node_modules\\qs\\LICENSE.md"
+  },
+  "qs@6.11.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\qs",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\qs\\LICENSE.md"
+  },
+  "randombytes@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/crypto-browserify/randombytes",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\randombytes",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\randombytes\\LICENSE"
+  },
+  "range-parser@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\range-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\range-parser\\LICENSE"
+  },
+  "raw-body@2.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\raw-body",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\raw-body\\LICENSE"
+  },
+  "readable-stream@3.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/readable-stream",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\readable-stream",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\readable-stream\\LICENSE"
+  },
+  "readdirp@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\readdirp",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\readdirp\\LICENSE"
+  },
+  "require-directory@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/troygoode/node-require-directory",
+    "publisher": "Troy Goode",
+    "email": "troygoode@gmail.com",
+    "url": "http://github.com/troygoode/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\require-directory",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\require-directory\\LICENSE"
+  },
+  "rimraf@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/rimraf",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\rimraf",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\rimraf\\LICENSE"
+  },
+  "safe-buffer@5.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\safe-buffer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\safe-buffer\\LICENSE"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\safer-buffer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\safer-buffer\\LICENSE"
+  },
+  "semver@5.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jsonwebtoken\\node_modules\\semver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\jsonwebtoken\\node_modules\\semver\\LICENSE"
+  },
+  "semver@6.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\make-dir\\node_modules\\semver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\make-dir\\node_modules\\semver\\LICENSE"
+  },
+  "semver@7.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\simple-update-notifier\\node_modules\\semver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\simple-update-notifier\\node_modules\\semver\\LICENSE"
+  },
+  "semver@7.5.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\semver",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\semver\\LICENSE"
+  },
+  "send@0.18.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\send",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\send\\LICENSE"
+  },
+  "serialize-javascript@6.0.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/yahoo/serialize-javascript",
+    "publisher": "Eric Ferraiuolo",
+    "email": "edf@ericf.me",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\serialize-javascript",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\serialize-javascript\\LICENSE"
+  },
+  "serve-static@1.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\serve-static",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\serve-static\\LICENSE"
+  },
+  "set-blocking@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/set-blocking",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\set-blocking",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\set-blocking\\LICENSE.txt"
+  },
+  "setprototypeof@1.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\setprototypeof",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\setprototypeof\\LICENSE"
+  },
+  "side-channel@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\side-channel",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\side-channel\\LICENSE"
+  },
+  "sift@16.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/crcn/sift.js",
+    "publisher": "Craig Condon",
+    "email": "craig.j.condon@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\sift",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\sift\\README.md"
+  },
+  "signal-exit@3.0.7": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/signal-exit",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\signal-exit",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\signal-exit\\LICENSE.txt"
+  },
+  "simple-update-notifier@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexbrazier/simple-update-notifier",
+    "publisher": "alexbrazier",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\simple-update-notifier",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\simple-update-notifier\\LICENSE"
+  },
+  "smart-buffer@4.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/JoshGlazebrook/smart-buffer",
+    "publisher": "Josh Glazebrook",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\smart-buffer",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\smart-buffer\\LICENSE"
+  },
+  "socks@2.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/JoshGlazebrook/socks",
+    "publisher": "Josh Glazebrook",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\socks",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\socks\\LICENSE"
+  },
+  "sparse-bitfield@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mafintosh/sparse-bitfield",
+    "publisher": "Mathias Buus",
+    "url": "@mafintosh",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\sparse-bitfield",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\sparse-bitfield\\LICENSE"
+  },
+  "statuses@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\statuses",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\statuses\\LICENSE"
+  },
+  "string-width@4.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\string-width",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\string-width\\license"
+  },
+  "string_decoder@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/string_decoder",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\string_decoder",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\string_decoder\\LICENSE"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strip-ansi\\license"
+  },
+  "strip-json-comments@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-json-comments",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strip-json-comments",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strip-json-comments\\license"
+  },
+  "strnum@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/NaturalIntelligence/strnum",
+    "publisher": "Amit Gupta",
+    "url": "https://amitkumargupta.work/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strnum",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\strnum\\LICENSE"
+  },
+  "superagent@8.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ladjs/superagent",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\superagent",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\superagent\\LICENSE"
+  },
+  "supports-color@5.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\supports-color",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\nodemon\\node_modules\\supports-color\\license"
+  },
+  "supports-color@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chalk\\node_modules\\supports-color",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\chalk\\node_modules\\supports-color\\license"
+  },
+  "supports-color@8.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\supports-color",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\supports-color\\license"
+  },
+  "tar@6.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-tar",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tar",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tar\\LICENSE"
+  },
+  "taskmanager@1.0.0": {
+    "licenses": "MIT",
+    "publisher": "Max Vengel",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server"
+  },
+  "to-regex-range@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/to-regex-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\to-regex-range",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\to-regex-range\\LICENSE"
+  },
+  "toidentifier@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/toidentifier",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\toidentifier",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\toidentifier\\LICENSE"
+  },
+  "touch@3.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-touch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\touch",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\touch\\LICENSE"
+  },
+  "tr46@0.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Sebmaster/tr46.js",
+    "publisher": "Sebastian Mayr",
+    "email": "npm@smayr.name",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\node_modules\\tr46"
+  },
+  "tr46@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsdom/tr46",
+    "publisher": "Sebastian Mayr",
+    "email": "npm@smayr.name",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tr46",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tr46\\LICENSE.md"
+  },
+  "tslib@1.14.1": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\ie11-detection\\node_modules\\tslib",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\@aws-crypto\\ie11-detection\\node_modules\\tslib\\LICENSE.txt"
+  },
+  "tslib@2.6.2": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tslib",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\tslib\\LICENSE.txt"
+  },
+  "type-detect@4.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/type-detect",
+    "publisher": "Jake Luer",
+    "email": "jake@alogicalparadox.com",
+    "url": "http://alogicalparadox.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\type-detect",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\type-detect\\LICENSE"
+  },
+  "type-is@1.6.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\type-is",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\type-is\\LICENSE"
+  },
+  "undefsafe@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/undefsafe",
+    "publisher": "Remy Sharp",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\undefsafe",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\undefsafe\\LICENSE"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\unpipe",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\unpipe\\LICENSE"
+  },
+  "util-deprecate@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/util-deprecate",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\util-deprecate",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\util-deprecate\\LICENSE"
+  },
+  "utils-merge@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "publisher": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\utils-merge",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\utils-merge\\LICENSE"
+  },
+  "uuid@8.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/uuidjs/uuid",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\uuid",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\uuid\\LICENSE.md"
+  },
+  "validator@13.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/validatorjs/validator.js",
+    "publisher": "Chris O'Hara",
+    "email": "cohara87@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\validator",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\validator\\LICENSE"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\vary",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\vary\\LICENSE"
+  },
+  "webidl-conversions@3.0.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/jsdom/webidl-conversions",
+    "publisher": "Domenic Denicola",
+    "email": "d@domenic.me",
+    "url": "https://domenic.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\node_modules\\webidl-conversions",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\node_modules\\webidl-conversions\\LICENSE.md"
+  },
+  "webidl-conversions@7.0.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/jsdom/webidl-conversions",
+    "publisher": "Domenic Denicola",
+    "email": "d@domenic.me",
+    "url": "https://domenic.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\webidl-conversions",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\webidl-conversions\\LICENSE.md"
+  },
+  "whatwg-url@11.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsdom/whatwg-url",
+    "publisher": "Sebastian Mayr",
+    "email": "github@smayr.name",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\whatwg-url",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\whatwg-url\\LICENSE.txt"
+  },
+  "whatwg-url@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsdom/whatwg-url",
+    "publisher": "Sebastian Mayr",
+    "email": "github@smayr.name",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\node_modules\\whatwg-url",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\node-fetch\\node_modules\\whatwg-url\\LICENSE.txt"
+  },
+  "wide-align@1.1.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/wide-align",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wide-align",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wide-align\\LICENSE"
+  },
+  "workerpool@6.2.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/josdejong/workerpool",
+    "publisher": "Jos de Jong",
+    "email": "wjosdejong@gmail.com",
+    "url": "https://github.com/josdejong",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\workerpool",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\workerpool\\LICENSE"
+  },
+  "wrap-ansi@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wrap-ansi",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wrap-ansi\\license"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wrappy",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\wrappy\\LICENSE"
+  },
+  "y18n@5.0.8": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/y18n",
+    "publisher": "Ben Coe",
+    "email": "bencoe@gmail.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\y18n",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\y18n\\LICENSE"
+  },
+  "yallist@4.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/yallist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yallist",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yallist\\LICENSE"
+  },
+  "yargs-parser@20.2.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/yargs-parser",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs-parser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs-parser\\LICENSE.txt"
+  },
+  "yargs-unparser@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/yargs/yargs-unparser",
+    "publisher": "André Cruz",
+    "email": "andre@moxy.studio",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs-unparser",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs-unparser\\LICENSE"
+  },
+  "yargs@16.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/yargs/yargs",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yargs\\LICENSE"
+  },
+  "yocto-queue@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/yocto-queue",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yocto-queue",
+    "licenseFile": "C:\\__My\\_Vengel\\Sav\\lab1\\task-manager-server\\node_modules\\yocto-queue\\license"
+  }
+}
